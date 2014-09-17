@@ -133,5 +133,11 @@ namespace BeastDraw
             updown.Children.Add(r);
 
         }
+
+        private void SurfaceButton_PreviewTouchDown(object sender, TouchEventArgs e)
+        {
+            paper.Strokes.Clear();
+            updown.Children.Clear();
+        }
     }
 }

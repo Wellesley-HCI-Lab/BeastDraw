@@ -7,7 +7,10 @@
   <Grid>
 
         <s:SurfaceInkCanvas Background="Navy"  x:Name="paper" PreviewTouchDown="paper_TouchDown" PreviewTouchMove="paper_TouchMove" PreviewTouchUp="paper_TouchUp" TouchDown="paper_TouchDown" TouchMove="paper_TouchMove" TouchUp="paper_TouchUp" ></s:SurfaceInkCanvas>
-        <Canvas x:Name="updown" IsHitTestVisible="False"></Canvas>
+        <Canvas x:Name="updown" IsHitTestVisible="False">
+        </Canvas>
             <Label Foreground="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center"  FontSize="300" x:Name="statelabel">state</Label>
+        <s:SurfaceButton Content="clear" PreviewTouchDown="SurfaceButton_PreviewTouchDown" HorizontalContentAlignment="Center" FontSize="100" Height="150" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="29,126,0,126" Width="668"></s:SurfaceButton>
+
     </Grid>
 </s:SurfaceWindow>
