@@ -1,0 +1,16 @@
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\bin\Debug\Resources\icon.png
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\bin\Debug\BeastDraw.xml
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\bin\Debug\BeastDraw.exe
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\bin\Debug\BeastDraw.pdb
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.csprojResolveAssemblyReference.cache
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\SurfaceWindow1.baml
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\App.baml
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\App.g.cs
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw_Content.g.cs
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw_MarkupCompile.cache
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.g.resources
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.Properties.Resources.resources
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.csproj.GenerateResource.Cache
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.exe
+C:\Users\beast-jr\Documents\Visual Studio 2010\Projects\BeastDraw\BeastDraw\obj\Debug\BeastDraw.pdb

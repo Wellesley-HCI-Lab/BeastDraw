@@ -1,0 +1,13 @@
+﻿<s:SurfaceWindow x:Class="BeastDraw.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="BeastDraw"
+    >
+  <Grid>
+
+        <s:SurfaceInkCanvas Background="Navy"  x:Name="paper" PreviewTouchDown="paper_TouchDown" PreviewTouchMove="paper_TouchMove" PreviewTouchUp="paper_TouchUp" TouchDown="paper_TouchDown" TouchMove="paper_TouchMove" TouchUp="paper_TouchUp" ></s:SurfaceInkCanvas>
+        <Canvas x:Name="updown" IsHitTestVisible="False"></Canvas>
+            <Label Foreground="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center"  FontSize="300" x:Name="statelabel">state</Label>
+    </Grid>
+</s:SurfaceWindow>
