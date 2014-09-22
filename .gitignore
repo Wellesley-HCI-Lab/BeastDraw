@@ -34,3 +34,15 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+*.suo
+*.exe
+*.exe
+*.baml
+*.cache
+*.cache
+*.baml
+BeastDraw/obj/Debug/SurfaceWindow1.g.cs
+BeastDraw/obj/Debug/SurfaceWindow1.g.cs
+BeastDraw/obj/Debug/SurfaceWindow1.g.i.cs
+BeastDraw/obj/Debug/BeastDraw.g.resources
