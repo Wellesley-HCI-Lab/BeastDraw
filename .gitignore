@@ -40,9 +40,7 @@ Icon
 *.exe
 *.baml
 *.cache
-*.cache
 *.baml
-BeastDraw/obj/Debug/SurfaceWindow1.g.cs
 BeastDraw/obj/Debug/SurfaceWindow1.g.cs
 BeastDraw/obj/Debug/SurfaceWindow1.g.i.cs
 BeastDraw/obj/Debug/BeastDraw.g.resources

@@ -139,5 +139,11 @@ namespace BeastDraw
             paper.Strokes.Clear();
             updown.Children.Clear();
         }
+
+        private void SurfaceButton_PreviewMouseDown(object sender, MouseButtonEventArgs e)
+        {
+            paper.Strokes.Clear();
+            updown.Children.Clear();
+        }
     }
 }
